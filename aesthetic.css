@@ -1,0 +1,28 @@
+body {
+background-color: thistle;
+font-family: playfair display, serif;
+
+}
+h1 {
+color: rgb(124, 20, 124);
+display: flex;
+flex-direction: column;
+justify-items: center;
+align items: center
+
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: rgb(20, 37, 124);
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
